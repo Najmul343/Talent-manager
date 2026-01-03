@@ -4,3 +4,4 @@ pillow
 requests
 PyPDF2
 PyMuPDF
+openpyxl
